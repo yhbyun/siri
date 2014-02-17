@@ -37,4 +37,8 @@ status: 4 – missing audio file  
 status: 5 – ncorrect audio file 
 
 
+### TODO 
+
+silence detection
+http://unix.stackexchange.com/questions/55032/end-sox-recording-once-silence-is-detected
 
