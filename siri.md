@@ -164,5 +164,5 @@ http://unix.stackexchange.com/questions/55032/end-sox-recording-once-silence-is-
 
 ---
 
-# Thank You !!!
+![](http://media-cache-cd0.pinimg.com/736x/21/84/f9/2184f9764bd1e30fb624ec1c6547c727.jpg)
   
