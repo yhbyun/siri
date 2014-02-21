@@ -7,7 +7,7 @@
 ---
 
 [Raspberry Pi Voice Recognition Works Like
-Siri](http://blog.oscarliang.net/raspberry-pi-voice-recognition-works-like-siri/)에 있는 스크립트를 OSX에서 작동하도록 변경
+Siri](http://blog.oscarliang.net/raspberry-pi-voice-recognition-works-like-siri/) 스크립트를 OSX 용으로 수정 
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/OP2IvkqrRnU"
 frameborder="0" allowfullscreen></iframe>
@@ -96,7 +96,7 @@ if len(res.pods) > 0:
     texts = texts.encode('ascii', 'ignore')
     print texts
 else:
-    print "Sorry, I am not sure."```
+    print "Sorry, I am not sure."
 ```
 
 ---
